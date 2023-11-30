@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ELO-endure calculator
+This project demonstrates how to use an extended version of the ELO rating system explained here: [Generalizing the Elo rating system for multiplayer games and races](https://www-users.york.ac.uk/~bp787/Generalizing_Elo_arxiv.pdf)
 
 ## Available Scripts
 
